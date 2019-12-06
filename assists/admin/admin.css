@@ -1,0 +1,30 @@
+/*
+* @Author: sabuj
+* @Date:   2019-12-02 08:44:12
+* @Last Modified by:   sabuj
+* @Last Modified time: 2019-12-02 13:14:03
+*/
+.dropdown-content li {
+	padding: 20px;
+}
+.btn.tooltipped ,.edit{
+	background: none;
+	box-shadow: none;
+	color: #26a69a;
+}
+.action {
+	display: flex;
+}
+.btn.tooltipped.delete ,.delete{
+	color: #993232;
+	padding-left: 0px;
+}
+.waves-effect.waves-light.btn.right {
+	margin-top: -70px;
+}.waves-effect.waves-light.btn.right:hover {
+	color: #FFF
+}
+.exits {
+	color: red;
+	font-size: 14px;
+}
